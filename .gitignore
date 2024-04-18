@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+venv/
+
+# nikola
+.doit.db
+.doit.db.*
+cache/
+output/

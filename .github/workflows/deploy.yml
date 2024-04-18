@@ -1,0 +1,14 @@
+on: [push,pull_request]
+
+name: Deploy Site
+jobs:
+  nikola_build:
+    runs-on: ubuntu-latest
+    name: 'Build, Check, Deploy'
+    steps:
+    - name: Check out
+      uses: actions/checkout@v3
+    - name: Build and Deploy Nikola
+      uses: getnikola/nikola-action@v8
+      with:
+        dry_run: ${{ github.ref_name != 'main' }}
