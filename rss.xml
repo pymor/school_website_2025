@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pyMOR School and User Meeting 2024</title><link>https://2024.school.pymor.org/</link><description>August 26-30 (User meeting: August 29-30)</description><atom:link href="https://2024.school.pymor.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:school@pymor.org"&gt;school@pymor.org&lt;/a&gt; </copyright><lastBuildDate>Fri, 03 May 2024 14:36:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome</title><link>https://2024.school.pymor.org/posts/welcome/</link><dc:creator>school@pymor.org</dc:creator><description>&lt;p&gt;pyMOR School is an annual event for future and current pyMOR users and developers.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pyMOR School and User Meeting 2024</title><link>https://2024.school.pymor.org/</link><description>August 26-30 (User meeting: August 29-30)</description><atom:link href="https://2024.school.pymor.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:school@pymor.org"&gt;school@pymor.org&lt;/a&gt; </copyright><lastBuildDate>Fri, 03 May 2024 15:00:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome</title><link>https://2024.school.pymor.org/posts/welcome/</link><dc:creator>school@pymor.org</dc:creator><description>&lt;p&gt;pyMOR School is an annual event for future and current pyMOR users and developers.
 The sixth iteration of pyMOR School will take place in Münster, Germany, from Monday noon, August 26 to Friday noon, August 30.
 Experienced users of pyMOR and related software packages are especially invited to join us for the integrated User
 Meeting from Thursday morning (August 29) to Friday noon (August 30).
-A code sprint will take place on Thursday evening.&lt;/p&gt;
-&lt;p&gt;The School will offer interactive introductory lectures on some of the most important MOR methods and how to use these
+A code sprint will take place on Thursday evening.
+&lt;br&gt;&lt;br&gt;
+The School will offer interactive introductory lectures on some of the most important MOR methods and how to use these
 methods with pyMOR.
 We will also discuss pyMOR's technical design, how to contribute to pyMOR and present some more advanced applications.
 In the interactive sessions, participants will have the opportunity to either get more hands-on experience with pyMOR
 through exercise problems or to work on integrating pyMOR into their projects with the help of the pyMOR
-developers.&lt;/p&gt;
-&lt;p&gt;The User Meeting will feature user-contributed talks showcasing pyMOR-related projects and discussion sessions to
+developers.
+&lt;br&gt;&lt;br&gt;
+The User Meeting will feature user-contributed talks showcasing pyMOR-related projects and discussion sessions to
 shape pyMOR's future development.
 The code sprint is an opportunity to get involved in pyMOR development by fixing some 'Good first issues' with the help
 of the pyMOR developers.
