@@ -30,7 +30,7 @@ start of the School:
     - [https://link.springer.com/book/10.1007/978-3-030-16877-3](https://link.springer.com/book/10.1007/978-3-030-16877-3)
     - [https://link.springer.com/book/10.1007/978-3-030-50356-7](https://link.springer.com/book/10.1007/978-3-030-50356-7)
     - [https://python.swaroopch.com/](https://python.swaroopch.com/)
-    - [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
+    - [https://greenteapress.com/wp/think-python-3rd-edition/](https://greenteapress.com/wp/think-python-3rd-edition/)
     - [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
     - [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - for more experienced programmers:
