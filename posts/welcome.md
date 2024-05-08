@@ -20,6 +20,5 @@ developers.
 <br /><br />
 The User Meeting will feature user-contributed talks showcasing pyMOR-related projects and discussion sessions to
 shape pyMOR's future development.
-The code sprint is an opportunity to get involved in pyMOR development by fixing some 'Good first issues' with the help
-of the pyMOR developers.
+The code sprint is an opportunity to get involved in pyMOR development with the help of the pyMOR developers.
 Of course, existing users and previous School participants are also invited to join us for the whole week of pyMOR School.
