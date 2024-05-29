@@ -55,4 +55,6 @@ If you would like to travel by car into the city you need to have a certified ve
 
 # Accomodation
 
-You are responsible for booking and paying for your accomodation yourself.
+You are responsible for booking and paying for your own accommodation.
+A small contingent of hotel rooms is available through [this link](https://tportal.tomas.travel/rmuenster/ukv/?doSearch=1&date_from=26.08.2024&date_to=30.08.2024&number_adult%5b%5d=1&doRadiusSearch=1&RadiusSearchLocationID=GER00020060340045334&radius=5000&serviceProviderTypes%5b%5d=WBX00020010000100214&reset=1).
+It is recommended that you book your accommodation early as many hotels only have a limited number of rooms available during pyMOR School.
