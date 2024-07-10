@@ -29,7 +29,6 @@ Of course, existing users and previous School participants are also invited to j
 
 The pyMOR School 2024 is organized by:
 
-- Linus Balicki (Virginia Tech)
 - Hendrik Kleikamp (University of Münster)
 - Petar Mlinarić (Virginia Tech)
 - Stephan Rave (University of Münster)
