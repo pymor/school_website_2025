@@ -23,7 +23,7 @@ SITE_URL = 'https://2024.school.pymor.org/'
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://2023.school.pymor.org/"
 BLOG_EMAIL = 'school@pymor.org'
-BLOG_DESCRIPTION = '<br>August 26-30 (User meeting: August 29-30)<br><br> <div style="font-size:3rem;font-weight:bold"><a href=https://indico.uni-muenster.de/event/2737/>Register</a> until July 31.</div>'  # (translatable)
+BLOG_DESCRIPTION = '<br>August 26-30 (User meeting: August 29-30)<br><br> <div style="font-size:3rem;font-weight:bold"><a href=https://indico.uni-muenster.de/event/2737/timetable/#20240826.detailed>Program</a></div>'  # (translatable)
 
 # Nikola is multilingual!
 #
