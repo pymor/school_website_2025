@@ -5,6 +5,8 @@
 .. type: text
 -->
 
+![group photo](/images/group_photo.jpg)
+
 pyMOR School is an annual event for future and current pyMOR users and developers.
 The sixth iteration of pyMOR School will take place in Münster, Germany, from Monday noon, August 26 to Friday noon, August 30.
 Experienced users of pyMOR and related software packages are especially invited to join us for the integrated User
