@@ -8,9 +8,7 @@
 # pyMOR School and User Meeting
 
 pyMOR School is an annual event for future and current pyMOR users and developers.
-The sixth iteration of pyMOR School will take place in Münster, Germany, from Monday noon, August 26 to Friday noon, August 30.
-Experienced users of pyMOR and related software packages are especially invited to join us for the integrated User
-Meeting from Thursday morning (August 29) to Friday noon (August 30).
+The seventh iteration of pyMOR School will take place in Zagreb, Croatia, from Monday morning, September 8 to Friday noon, September 12.
 A code sprint will take place on Thursday evening.
 
 The School will offer interactive introductory lectures on some of the most important MOR methods and how to use these
@@ -27,10 +25,10 @@ Of course, existing users and previous School participants are also invited to j
 
 ## Organizers
 
-The pyMOR School 2024 is organized by:
+The pyMOR School 2025 is organized by:
 
 - Hendrik Kleikamp (University of Münster)
-- Petar Mlinarić (Virginia Tech)
+- Petar Mlinarić (University of Zagreb)
 - Stephan Rave (University of Münster)
 - Jens Saak (MPI Magdeburg)
 
@@ -41,6 +39,7 @@ The pyMOR School 2024 is organized by:
 3. [Münster (2021)](https://2021.school.pymor.org/)
 4. [Magdeburg (2022)](https://2022.school.pymor.org/)
 5. [Berlin (2023)](https://2023.school.pymor.org/)
+6. [Münster (2024)](https://2024.school.pymor.org/)
 
 # pyMOR
 

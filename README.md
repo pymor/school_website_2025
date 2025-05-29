@@ -1,11 +1,11 @@
-# pyMOR School 2024 Website
+# pyMOR School 2025 Website
 
 ## Building locally
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -U pip setuptools wheel
-pip install -r requirements.txt
-nikola auto -b
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+nikola build
+nikola serve -b
 ```

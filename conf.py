@@ -15,15 +15,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = 'school@pymor.org'  # (translatable)
-BLOG_TITLE = 'pyMOR School and User Meeting 2024'  # (translatable)
+BLOG_TITLE = 'pyMOR School 2025'  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = 'https://2024.school.pymor.org/'
+SITE_URL = 'https://2025.school.pymor.org/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://2023.school.pymor.org/"
 BLOG_EMAIL = 'school@pymor.org'
-BLOG_DESCRIPTION = '<br>August 26-30 (User meeting: August 29-30)<br><br> <div style="font-size:3rem;font-weight:bold"><a href=https://indico.uni-muenster.de/event/2737/timetable/#20240826.detailed>Program</a></div>'  # (translatable)
+BLOG_DESCRIPTION = 'September 8-12'  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1423,11 +1423,6 @@ WARN_ABOUT_TAG_METADATA = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-    'FOOTER_LOGOS': [
-        ('/images/MM_Logo_2018_rgb.svg', 'Münster Mathematics'),
-        ('/images/mpi_magdeburg.svg', 'Max Planck Institute Magdeburg'),
-        ('/images/vt_math.svg', 'Virginia Tech Department of Mathematics'),
-    ],
     'TWITTER_URL': None,
     'GITHUB_URL': None,
     'LINKEDIN_URL': None,
