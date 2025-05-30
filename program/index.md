@@ -8,10 +8,8 @@
 # Time and Place
 
 The pyMOR School and User Meeting will take place
-from Monday at 14:00 to Friday at 12:00 (August 26-30).
-The User Meeting will in particular take place from
-Thursday morning (August 29) to Friday noon (August 30).
-A detailed timetable can be found [here](https://indico.uni-muenster.de/event/2737/timetable/#20240826.detailed).
+from Monday at 9:00 to Friday at 12:00 (September 8-12).
+The timetable will be adapted based on the registrants' interests.
 
 # Materials
 

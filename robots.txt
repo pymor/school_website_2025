@@ -1,4 +1,4 @@
-Sitemap: https://2024.school.pymor.org/sitemapindex.xml
+Sitemap: https://2025.school.pymor.org/sitemapindex.xml
 
 User-Agent: *
-Host: 2024.school.pymor.org
+Host: 2025.school.pymor.org
