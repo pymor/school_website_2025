@@ -19,7 +19,7 @@ We will also discuss pyMOR's technical design, how to contribute to pyMOR and
 present some more advanced applications.
 In the interactive sessions, participants will have the opportunity to either
 get more hands-on experience with pyMOR through exercise problems or to work on
-integrating pyMOR into their projects with the help of the pyMOR developers.
+integrating pyMOR into their own projects with the help of the pyMOR developers.
 
 The code sprint is an opportunity to get involved in pyMOR development with the
 help of the pyMOR developers.
