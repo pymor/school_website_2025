@@ -7,38 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://2025.school.pymor.org/</loc>
-  <lastmod>2025-05-29T19:47:00Z</lastmod>
- </url>
- <url>
-  <loc>https://2025.school.pymor.org/2024/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/2025/</loc>
-  <lastmod>2025-05-29T19:47:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/about/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/archive.html</loc>
-  <lastmod>2025-05-29T19:47:00Z</lastmod>
+  <lastmod>2025-06-02T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/categories/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://2025.school.pymor.org/posts/registration/</loc>
+  <lastmod>2025-06-02T12:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/posts/welcome/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/program/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://2025.school.pymor.org/venue/</loc>
-  <lastmod>2025-05-29T18:38:00Z</lastmod>
+  <lastmod>2025-06-02T11:55:00Z</lastmod>
  </url>
 </urlset>

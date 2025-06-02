@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pyMOR School 2025</title><link>https://2025.school.pymor.org/</link><description>September 8-12</description><atom:link href="https://2025.school.pymor.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 &lt;a href="mailto:school@pymor.org"&gt;school@pymor.org&lt;/a&gt; </copyright><lastBuildDate>Fri, 30 May 2025 07:18:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome</title><link>https://2025.school.pymor.org/posts/welcome/</link><dc:creator>school@pymor.org</dc:creator><description>&lt;p&gt;pyMOR School is an annual event for future and current pyMOR users and
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pyMOR School 2025</title><link>https://2025.school.pymor.org/</link><description>Model Order Reduction with Python&lt;br&gt;September 8-12</description><atom:link href="https://2025.school.pymor.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 &lt;a href="mailto:school@pymor.org"&gt;school@pymor.org&lt;/a&gt; </copyright><lastBuildDate>Mon, 02 Jun 2025 14:33:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Registration</title><link>https://2025.school.pymor.org/posts/registration/</link><dc:creator>school@pymor.org</dc:creator><description>&lt;p&gt;The registration is open at
+&lt;a href="https://indico3.mpi-magdeburg.mpg.de/event/51/"&gt;Indico&lt;/a&gt;.&lt;/p&gt;</description><guid>https://2025.school.pymor.org/posts/registration/</guid><pubDate>Sun, 01 Jun 2025 22:00:00 GMT</pubDate></item><item><title>Welcome</title><link>https://2025.school.pymor.org/posts/welcome/</link><dc:creator>school@pymor.org</dc:creator><description>&lt;p&gt;pyMOR School is an annual event for future and current pyMOR users and
 developers.
 The seventh iteration of pyMOR School will take place in Zagreb, Croatia, from
 Monday morning, September 8 to Friday noon, September 12.
@@ -11,9 +12,7 @@ present some more advanced applications.
 In the interactive sessions, participants will have the opportunity to either
 get more hands-on experience with pyMOR through exercise problems or to work on
 integrating pyMOR into their projects with the help of the pyMOR developers.&lt;/p&gt;
-&lt;p&gt;The User Meeting will feature user-contributed talks showcasing pyMOR-related
-projects and discussion sessions to shape pyMOR's future development.
-The code sprint is an opportunity to get involved in pyMOR development with the
+&lt;p&gt;The code sprint is an opportunity to get involved in pyMOR development with the
 help of the pyMOR developers.
 Of course, existing users and previous School participants are also invited to
-join us for the whole week of pyMOR School.&lt;/p&gt;</description><guid>https://2025.school.pymor.org/posts/welcome/</guid><pubDate>Wed, 28 May 2025 22:00:00 GMT</pubDate></item></channel></rss>
+join us for this year's pyMOR School.&lt;/p&gt;</description><guid>https://2025.school.pymor.org/posts/welcome/</guid><pubDate>Wed, 28 May 2025 22:00:00 GMT</pubDate></item></channel></rss>
