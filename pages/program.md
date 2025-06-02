@@ -7,8 +7,8 @@
 
 # Time and Place
 
-The pyMOR School and User Meeting will take place
-from Monday at 9:00 to Friday at 12:00 (September 8-12).
+The pyMOR School will take place from Monday at 9:00 to Friday at 12:00
+(September 8-12).
 The timetable will be adapted based on the registrants' interests.
 
 # Materials

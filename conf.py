@@ -23,7 +23,7 @@ SITE_URL = 'https://2025.school.pymor.org/'
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://2023.school.pymor.org/"
 BLOG_EMAIL = 'school@pymor.org'
-BLOG_DESCRIPTION = 'September 8-12'  # (translatable)
+BLOG_DESCRIPTION = 'Model Order Reduction with Python<br>September 8-12'  # (translatable)
 
 # Nikola is multilingual!
 #

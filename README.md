@@ -9,3 +9,9 @@ uv pip install -r requirements.txt
 nikola build
 nikola serve -b
 ```
+
+## Deploying to GitHub Pages
+
+```bash
+nikola github_deploy
+```

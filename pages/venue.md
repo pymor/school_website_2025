@@ -24,19 +24,29 @@ referrerpolicy="no-referrer-when-downgrade"></iframe>
     - bus 290 leaves every 35min,
       and takes about 40min to reach Kvaternik square
       ([_Kvaternikov trg_](https://maps.app.goo.gl/MA9YzPNYYmcYTCph9))
+    - the other option is a taxi
 - [Croatian Railways](https://www.hzpp.hr/en)
-    - the main train station is [here](https://maps.app.goo.gl/qHAiDvHFRd7f6Eaj6)
+    - the main train station is
+      [here](https://maps.app.goo.gl/qHAiDvHFRd7f6Eaj6)
 - [Zagreb Bus Terminal](https://www.akz.hr/en)
     - the main bus station is [here](https://maps.app.goo.gl/CFuW9JGJrN7c2jcT7)
 - [ZET](https://www.zet.hr/en)
     - public transportation in Zagreb:
       [trams](https://en.wikipedia.org/wiki/Trams_in_Zagreb) and buses
     - Google Maps gives good directions
-    - note that the Department of Mathematics is on a hill;
-      there are buses going from
-      [Kaptol](https://maps.app.goo.gl/UYdw4wvG4utGwWLAA) (all except 105) and
-      Kvaternik square (201 and 204)
+    - a 30min ticket costs 0.53 euros (can be bought at newspaper stands)
 - [Bolt](https://bolt.eu/en/)
+    - taxi service
+- reaching the Department of Mathematics
+    - note that it is on a hill
+    - buses going from [Kaptol](https://maps.app.goo.gl/UYdw4wvG4utGwWLAA):
+        - all except 105 (leave at
+          [Bijenička bus station](https://maps.app.goo.gl/DMXiGu7KNAyoP5TS9))
+    - buses going from Kvaternik square:
+        - 201 (leave at
+          [Horvatovac - PMF bus station](https://maps.app.goo.gl/Qr2mQeqoaQoGToZj6))
+        - 204 (leave at
+          [Bijenička bus station](https://maps.app.goo.gl/DMXiGu7KNAyoP5TS9))
 
 # Accommodation
 
