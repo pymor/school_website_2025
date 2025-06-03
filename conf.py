@@ -15,7 +15,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = 'school@pymor.org'  # (translatable)
-BLOG_TITLE = 'pyMOR School 2025'  # (translatable)
+BLOG_TITLE = 'pyMOR School and User Meeting 2025'  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = 'https://2025.school.pymor.org/'
@@ -23,7 +23,7 @@ SITE_URL = 'https://2025.school.pymor.org/'
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://2023.school.pymor.org/"
 BLOG_EMAIL = 'school@pymor.org'
-BLOG_DESCRIPTION = 'Model Order Reduction with Python<br>September 8-12'  # (translatable)
+BLOG_DESCRIPTION = 'September 8-12'  # (translatable)
 
 # Nikola is multilingual!
 #
