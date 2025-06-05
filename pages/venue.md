@@ -34,7 +34,18 @@ referrerpolicy="no-referrer-when-downgrade"></iframe>
     - public transportation in Zagreb:
       [trams](https://en.wikipedia.org/wiki/Trams_in_Zagreb) and buses
     - Google Maps gives good directions
-    - a 30min ticket costs 0.53 euros (can be bought at newspaper stands)
+    - ticket prices are given
+      [here](https://www.zet.hr/tickets-and-fares/fares/605)
+    - it is possible to buy
+      [paper tickets](https://www.zet.hr/tickets-and-fares/paper-tickets/603)
+      from newspaper stands or from the driver
+      (it needs to be stamped by inserting into the machine close to the first
+      door of the tram/bus, or close to the first or last door in the case of
+      low-floor trams)
+    - instead of paper tickets, it is possible to use an
+      [app](https://www.zet.hr/tickets-and-fares/moj-zet-app/8111)
+      (a QR code needs to be scanned which appear close to the doors of the
+      tram/bus)
 - [Bolt](https://bolt.eu/en/)
     - taxi service
 - reaching the Department of Mathematics
