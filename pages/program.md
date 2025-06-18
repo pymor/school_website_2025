@@ -8,7 +8,9 @@
 # Time and Place
 
 The pyMOR School will take place from Monday at 9:00 to Friday at 12:00
-(September 8-12).
+(September 8-12) in room 001
+(to the right after entering through the main entrance).
+
 The timetable will be adapted based on the registrants' interests.
 
 # Materials
