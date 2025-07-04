@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
         ('/about/', 'About'),
         ('/program/', 'Program'),
         ('/venue/', 'Venue'),
+        ('/coc/', 'Code of Conduct'),
     ),
 }
 
