@@ -35,7 +35,7 @@ join us for the whole week of pyMOR School.
 
 The pyMOR School 2025 is organized by:
 
-- Hendrik Kleikamp (University of Münster)
+- Hendrik Kleikamp (University of Graz)
 - Petar Mlinarić (University of Zagreb)
 - Stephan Rave (University of Münster)
 - Jens Saak (MPI Magdeburg)
