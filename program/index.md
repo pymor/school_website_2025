@@ -11,7 +11,8 @@ The pyMOR School will take place from Monday at 9:00 to Friday at 12:00
 (September 8-12) in room 110
 (first floor, south-west part of the building).
 
-The timetable will be adapted based on the registrants' interests.
+The timetable is available at
+[Indico](https://indico3.mpi-magdeburg.mpg.de/event/51/timetable/#all).
 
 # Materials
 
