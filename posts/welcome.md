@@ -5,6 +5,8 @@
 .. type: text
 -->
 
+![group photo](/images/group_photo.jpg)
+
 pyMOR School is an annual event for future and current pyMOR users and
 developers.
 The seventh iteration of pyMOR School will take place in Zagreb, Croatia, from
